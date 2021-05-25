@@ -1,0 +1,16 @@
+E:\Что_Где_Когда\What_Where_When\What_Where_When\bin\Debug\What_Where_When.exe.config
+E:\Что_Где_Когда\What_Where_When\What_Where_When\bin\Debug\What_Where_When.exe
+E:\Что_Где_Когда\What_Where_When\What_Where_When\bin\Debug\What_Where_When.pdb
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.csprojAssemblyReference.cache
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.Greeting.resources
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.Properties.Resources.resources
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.csproj.GenerateResource.cache
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.csproj.CoreCompileInputs.cache
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.exe
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.pdb
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.EnteringQuestions.resources
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.EnteringBlitz.resources
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.CheckingQuestionsAndBlitz.resources
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.StartGame.resources
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.End.resources
+E:\Что_Где_Когда\What_Where_When\What_Where_When\obj\Debug\What_Where_When.csproj.ResolveComReference.cache
